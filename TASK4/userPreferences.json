@@ -1,0 +1,19 @@
+{
+  "Alice": {
+    "The Matrix": 5,
+    "The Lord of the Rings": 4,
+    "Star Wars": 3
+  },
+  "Bob": {
+    "The Matrix": 4,
+    "The Lord of the Rings": 5,
+    "Star Wars": 2,
+    "Inception": 5
+  },
+  "Charlie": {
+    "The Matrix": 3,
+    "The Lord of the Rings": 2,
+    "Star Wars": 5,
+    "Titanic": 4
+  }
+}
